@@ -12,7 +12,7 @@ Parition Tolerance - If two database nodes got out of sync
 
 
 - Any distributed system can be with CP or AP but not CA.
-Example for CP system is - Financial systems
-Example for AP system is - Blogging app or Tinder app
+- Example for CP system is - Financial systems
+- Example for AP system is - Blogging app or Tinder app
 
    
